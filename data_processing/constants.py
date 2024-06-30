@@ -1,0 +1,6 @@
+LINKEDIN_SCRAPED = "scrape/linkedin/scrape_linkedin.csv"
+GLASSDOOR_SCRAPED = "scrape/glassdoor/scrape_glassdoor.csv"
+H1B_SCRAPED = "scrape/h1b/scrape_h1b.csv"
+LINKEDIN_CLEANED_DATA = "scrape/linkedin/clean_linkedin.csv"
+AGGREGATED_DATA = "data_processing/aggregated_data.csv"
+PROCESSED_AGGREGATED_DATA = "data_processing/processed_aggregated_data.csv"

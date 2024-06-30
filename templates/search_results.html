@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results</h1>
+    <table>
+        <tr>
+            <th>Employer</th>
+            <th>Job Title</th>
+            <th>Base Salary</th>
+            <th>Location</th>
+            <th>Submit Date</th>
+            <th>Start Date</th>
+            <th>Year</th>
+        </tr>
+        {% for job in jobs %}
+        <tr>
+            <td>{{ job[0] }}</td>
+            <td>{{ job[1] }}</td>
+            <td>{{ job[2] }}</td>
+            <td>{{ job[3] }}</td>
+            <td>{{ job[4] }}</td>
+            <td>{{ job[5] }}</td>
+            <td>{{ job[6] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
