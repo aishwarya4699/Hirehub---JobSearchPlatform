@@ -164,9 +164,11 @@ Analytics tab contains the following insights:
 Video Link : https://youtu.be/7axgdkF9DE8
 
 ## Authors
-1. `Nirbhay Bagmar` (nbagmar)
-2. `Dhruv Rakesh` (drakesh)
-3. `Kovidh Pathak` (kpathak)
-4. `Leher Jaiswal` (ljaiswal)
-5. `Aishwarya Ponnamparambil` (aponnamp)
+1. `Aishwarya Ponnamparambil` (aponnamp)
+2. `Leher Jaiswal` (ljaiswal)
+3. `Nirbhay Bagmar` (nbagmar)
+4. `Dhruv Rakesh` (drakesh)
+5. `Kovidh Pathak` (kpathak)
+
+
 
