@@ -1,1 +1,1 @@
-# Hirehub---JobSearchPlatform
+# Hirehub-JobSearchPlatform
